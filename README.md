@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @RahulShesh.<br>🌱 I’m a full stack web developer.<br>👀 playing with codes is awesome.<br>💞️ sweet boy</p>
+<p align="left">👋👋 Hey there! I'm a Full Stack Web Developer crafting digital magic. Front-end sorcerer, back-end wizard. Join me in the quest for seamless user experiences! 🚀💻 Let's turn coffee into code and create web wonders together! 🌐✨</p>
 
 ###
 <div align="center">
